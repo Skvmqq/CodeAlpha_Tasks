@@ -1,0 +1,11 @@
+# ninja log v5
+27	670	7387790649213945	CMakeFiles/sudukuSolver.dir/main.cpp.obj	77cdb0209107cfca
+3	623	7387796946951141	CMakeFiles/sudukuSolver.dir/Suduku.cpp.obj	f909ff85f5efffdc
+623	746	7387796948163356	sudukuSolver.exe	94aa642a44429e98
+21	637	7387802615254222	CMakeFiles/sudukuSolver.dir/main.cpp.obj	77cdb0209107cfca
+27	681	7387802615708288	CMakeFiles/sudukuSolver.dir/Sudoku.cpp.obj	42e6a7ec69d004aa
+681	807	7387802616928642	sudukuSolver.exe	75bedd606be700a7
+3	639	7387804666720216	CMakeFiles/sudukuSolver.dir/Sudoku.cpp.obj	42e6a7ec69d004aa
+640	785	7387804668042160	sudukuSolver.exe	75bedd606be700a7
+18	601	7387813299412848	CMakeFiles/sudukuSolver.dir/Sudoku.cpp.obj	42e6a7ec69d004aa
+601	740	7387813300780248	sudukuSolver.exe	75bedd606be700a7

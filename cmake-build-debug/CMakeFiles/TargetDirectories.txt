@@ -1,0 +1,3 @@
+C:/Users/shiva/CLionProjects/sudukuSolver/cmake-build-debug/CMakeFiles/sudukuSolver.dir
+C:/Users/shiva/CLionProjects/sudukuSolver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shiva/CLionProjects/sudukuSolver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
